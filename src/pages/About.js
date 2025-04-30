@@ -5,8 +5,8 @@ function About() {
     <div>
       <h1>About Me</h1>
       <p>
-        My name is [Your Name]. I enjoy coding, solving problems, and exploring new technologies.
-        When I'm not coding, I enjoy [hobby 1], [hobby 2], and hanging out with friends.
+        My name is John Shielwyn Kipte. I enjoy coding, solving problems, and exploring new technologies.
+        When I'm not coding, I enjoy Reading Wattpad, Watching Anime, and hanging out with friends.
       </p>
     </div>
   );
