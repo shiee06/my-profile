@@ -6,6 +6,7 @@ import About from './pages/About';
 import Education from './pages/Education';
 import Projects from './pages/Projects';
 import Contact from './pages/Contact';
+import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 
